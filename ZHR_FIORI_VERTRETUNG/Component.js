@@ -1,6 +1,7 @@
 jQuery.sap.declare("com.p7s1.Component");
 jQuery.sap.require("com.p7s1.MyRouter");
 
+// Custom Component 
 sap.ui.core.UIComponent.extend("com.p7s1.Component", {
 	metadata: {
 		name: "ZHR_FIORI_VERTRETUNG",
